@@ -1,0 +1,28 @@
+{
+  "name": "custom_experiment",
+  "description": "Example custom configuration",
+  "project_name": "dl667",
+  "dataset_path": "/path/to/dataset",
+  "batch_size": 32,
+  "num_workers": 4,
+  "image_size": 224,
+  "train_ratio": 0.8,
+  "model_variant": "resnet18",
+  "use_batch_norm": true,
+  "dropout_rate": 0.0,
+  "optimizer": "adam",
+  "learning_rate": 0.001,
+  "momentum": 0.9,
+  "weight_decay": 0.0,
+  "optimizer_kwargs": {},
+  "lambda_l1": 0.0,
+  "lambda_l2": 0.0,
+  "use_augmentation": true,
+  "augmentation_strength": "medium",
+  "num_epochs": 20,
+  "seed": 42,
+  "output_dir": "results",
+  "use_wandb": true,
+  "wandb_mode": "online"
+}
+

@@ -1,0 +1,43 @@
+{
+  "accuracy": 0.765,
+  "precision": 0.7908265620130028,
+  "recall": 0.765,
+  "f1": 0.7596643072860577,
+  "confusion_matrix": [
+    [
+      914,
+      86
+    ],
+    [
+      384,
+      616
+    ]
+  ],
+  "classification_report": {
+    "Cat": {
+      "precision": 0.7041602465331279,
+      "recall": 0.914,
+      "f1-score": 0.7954743255004352,
+      "support": 1000.0
+    },
+    "Dog": {
+      "precision": 0.8774928774928775,
+      "recall": 0.616,
+      "f1-score": 0.7238542890716804,
+      "support": 1000.0
+    },
+    "accuracy": 0.765,
+    "macro avg": {
+      "precision": 0.7908265620130027,
+      "recall": 0.765,
+      "f1-score": 0.7596643072860578,
+      "support": 2000.0
+    },
+    "weighted avg": {
+      "precision": 0.7908265620130028,
+      "recall": 0.765,
+      "f1-score": 0.7596643072860577,
+      "support": 2000.0
+    }
+  }
+}
