@@ -70,4 +70,6 @@ Thumbs.db
 *.jpeg
 !assets/**/*.png
 !assets/**/*.jpg
+!my_plots/**/*.png
+!my_plots/**/*.jpg
 
