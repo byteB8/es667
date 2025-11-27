@@ -20,8 +20,7 @@ wheels/
 .installed.cfg
 *.egg
 
-*.md
-my_plots/
+assets/
 /data/
 datasets/*
 results/
