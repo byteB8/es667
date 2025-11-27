@@ -22,7 +22,7 @@ wheels/
 
 *.md
 my_plots/
-data/
+/data/
 datasets/*
 results/
 test_data/
@@ -49,7 +49,7 @@ ENV/
 *.pt
 
 # Data
-data/
+/data/
 *.zip
 *.tar.gz
 
