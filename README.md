@@ -2,7 +2,7 @@
 
 A PyTorch-based framework for comparing optimization and regularization techniques on fine-grained image classification.
 
-![all-experiments](report/all-exp-train-acc.png)
+![all-experiments](my_plots/all-exp-train-acc.png)
 
 ### 1. Install Dependencies
 
